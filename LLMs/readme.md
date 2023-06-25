@@ -17,8 +17,10 @@ To use Alpaca-LoRA Chat, follow these steps:
    !pip install bitsandbytes datasets loralib sentencepiece transformers
 !pip install git+https://github.com/huggingface/peft.git
 
+  """
 
-2. Ensure that you have a compatible GPU and CUDA environment configured for optimal performance.
+
+3. Ensure that you have a compatible GPU and CUDA environment configured for optimal performance.
 
 ## Usage
 
