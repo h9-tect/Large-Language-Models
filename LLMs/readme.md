@@ -13,11 +13,12 @@ Alpaca-LoRA Chat relies on the Hugging Face `transformers` library for language 
 To use Alpaca-LoRA Chat, follow these steps:
 
 1. Install the necessary dependencies by running the following command:
-   """
+
+ """bash
    !pip install bitsandbytes datasets loralib sentencepiece transformers
 !pip install git+https://github.com/huggingface/peft.git
 
-  """
+"""
 
 
 3. Ensure that you have a compatible GPU and CUDA environment configured for optimal performance.
